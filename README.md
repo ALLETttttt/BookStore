@@ -12,7 +12,11 @@
 
     Done Authentication page with Room, Client can register(Sign up) to the system and Sign in to the app.
 
-    Has a Client and Admin mode, Client mode can only read the data and create a book in local storage. While Admin mode can do like a client and additionally update products, delete them.
+    Has a Client and Admin mode. 
+    
+    Client mode can only read the data and create a book in local storage.
+    
+    Admin mode can do like a client and additionally update products, delete them.
 
     Also client can search the book that he wanted.
 
