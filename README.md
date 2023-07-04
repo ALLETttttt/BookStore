@@ -1,4 +1,4 @@
-	BookStore-App
+#	BookStore-App
 
   Structure of the project:
 
