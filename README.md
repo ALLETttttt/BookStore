@@ -1,31 +1,20 @@
-#	BookStore-App
 
-  Structure of the project:
+# BookStore Application
 
-    ●	Used database Room ORM based on SQLite, we has a client and book database.
+This application aims to streamline the management, sales, and browsing of books in a digital environment. It serves as a virtual platform where users can explore, purchase, and interact with a wide range of books without the constraints of a physical store.
 
-    ●	Observed BottomNavigationView, ViewBinding, RecyclerView, SearchView.
 
-    ●	Architecture of application written on MVVM pattern.
+![](https://github.com/ALLETttttt/BookStore-App/blob/main/Снимок%20экрана%202023-08-07%20в%2011.59.28.png?raw=true)
 
-    ●	Realised CRUD - Data Fetching.
 
-    ●	Done Authentication page with Room, Client can register(Sign up) to the system and Sign in to the app.
+## Details
 
-    ●	Has a Client and Admin mode. 
-    
-    ●	Client mode can only read the data and create a book in local storage.
-    
-    ●	Admin mode can do like a client and additionally update products, delete them.
+- User interface done by XML
+- Client/Admin Mode
+- Authentication
+- Local Database (Room)
+- CRUD (in Admin Mode)
+- Sorting features (in asc/desc order based on the price)
+- Cross platform
+- Implementation SearchView, RecyclerView, NavigationView
 
-    ●	Also client can search the book that he wanted.
-
-    ●	All data is in local database.
-
-    ●	Application has a ablility of sorting types, in ascending and descending order based on the price of products.
-
-    
-
-    
-
-    
